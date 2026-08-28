@@ -245,12 +245,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Bowling
   rb: {fileID: 0}
-  maxForcePower: 120
-  chargeSpeed: 60
+  maxForcePower: 50
+  chargeSpeed: 120
   resetZPosition: 20
   resetTextObject: {fileID: 2014605584}
-  powerSlider: {fileID: 0}
-  actualFillImage: {fileID: 0}
   scoreText: {fileID: 190860028}
 --- !u!135 &166949399
 SphereCollider:
